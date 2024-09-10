@@ -1,0 +1,6 @@
+streamlit
+transformers
+huggingface-hub
+torch
+accelerate
+bitsandbytes
