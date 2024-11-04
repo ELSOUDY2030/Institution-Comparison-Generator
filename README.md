@@ -26,7 +26,7 @@ This repository contains a Streamlit-based web app that performs a comparative a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Institution-Comparison-Generator.git
+   git https://github.com/ELSOUDY2030/Institution-Comparison-Generator.git
    cd Institution-Comparison-Generator
    ```
 
